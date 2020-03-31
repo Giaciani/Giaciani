@@ -5,3 +5,8 @@ Caramelo
 Cinza 
 Vermelho 
 Preto
+
+cores adicionadas
+marfim 
+dourado 
+
