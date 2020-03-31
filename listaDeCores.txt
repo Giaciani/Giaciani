@@ -1,3 +1,7 @@
 Amarelo
 Azul 
 Verde 
+Caramelo
+Cinza 
+Vermelho 
+Preto
