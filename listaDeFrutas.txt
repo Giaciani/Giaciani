@@ -3,3 +3,5 @@
 3 Melão 
 4 Abacaxi 
 5 Goiaba
+6 Maçã
+7 Laranja 
